@@ -1,0 +1,17 @@
+commit 5667e321a0aad036b426dd4fd866b151b87b0ed8
+Author: dhomenic <daijahomenic@gmail.com>
+Date:   Sun Feb 3 12:17:59 2019 +0300
+
+    git ignore was modified
+
+commit 31c2dd5049b0dcd8f6d965d0f26d60ed30a06841
+Author: dhomenic <daijahomenic@gmail.com>
+Date:   Sun Feb 3 12:15:17 2019 +0300
+
+    added gitignore
+
+commit b8613ad8e7a70589a78fc66f58e6ff40158a8d15
+Author: dhomenic <daijahomenic@gmail.com>
+Date:   Sat Feb 2 23:44:51 2019 +0300
+
+    added readme.txt
